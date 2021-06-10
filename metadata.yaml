@@ -1,0 +1,41 @@
+_repo: Billy-Whiskers-at-Home_65433
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Frank, C. W.
+    gutenberg_agent_id: '53343'
+    url: http://www.gutenberg.org/2009/agents/53343
+  - agent_name: Brundage, Frances
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '34411'
+    url: http://www.gutenberg.org/2009/agents/34411
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Brundage
+creator:
+  author:
+    agent_name: Montgomery, Frances Trego
+    aliases:
+    - Montgomery, F. T. (Frances Trego)
+    - Wheeler, F. G.
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '8392'
+    url: http://www.gutenberg.org/2009/agents/8392
+description: ''
+gutenberg_issued: '2021-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65433'
+  lccn: '24032084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Billy Whiskers series. Vol. 26
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Goats -- Juvenile fiction'
+- GITenberg
+title: Billy Whiskers at Home
+url: http://www.gutenberg.org/ebooks/65433
